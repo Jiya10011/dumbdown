@@ -18,7 +18,8 @@ Turn complex academic research into fun, simple stories for kids, teens, and cur
 |-------|---------|
 | **Event** | ET AI Hackathon 2026 |
 | **Organizer** | The Economic Times |
-| **Hiring Partner** | Avataar.ai |
+| **Team Name** | JS |
+| **Team Members** | Jiya Jain , Anukriti Agrawal |
 | **Hackathon Partner** | Unstop |
 | **Problem Statement** | **#8 — AI-Native News Experience** |
 | **PS Direction** | Explainer-first content · Personalized newsroom · AI-adapted science stories |
